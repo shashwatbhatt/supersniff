@@ -40,7 +40,7 @@ getData()
 Yes, this is stupidly simple, but I've found myself writing this function 40000 times now so I want it on npm, OK? OK!?????
 
 # Overrriding prefix
-supersnitt will log to console with a [SNIFF] prefix but if you want to override it like this:
+supersniff will log to console with a [SNIFF] prefix but if you want to override it like this:
 
 ```javascript
 const sniff = require('supersniff')
